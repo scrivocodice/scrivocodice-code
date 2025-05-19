@@ -48,7 +48,6 @@ turni/
 * Punto di ingresso del programma, gestisce il flusso principale e richiama le
   funzioni di `params.py` e `turni.py`.
 
-
 ## Installazione
 
 1. Clona il repository o scarica il codice sorgente.
