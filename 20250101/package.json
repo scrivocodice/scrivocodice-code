@@ -1,0 +1,24 @@
+{
+  "name": "20250101",
+  "version": "1.0.0",
+  "private": true,
+  "description": "20250101",
+  "author": "Scrivocodice",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.14.0",
+    "gatsby-source-filesystem": "^5.14.0",
+    "gatsby-transformer-remark": "^6.14.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
