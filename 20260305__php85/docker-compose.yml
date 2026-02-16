@@ -1,0 +1,9 @@
+services:
+  php85:
+    build: .
+    container_name: php85-cli
+    volumes:
+      - ./:/workspace
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
